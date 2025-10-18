@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/thrivesphereglobaltv/supermarket-cashier-project/main/logo.png" alt="ThriveSphere Global TV Logo" width="200"/>
 </p>
 
-# 🛒 Supermarket Cashier Project
 
 # 🛒 Supermarket Cashier Project
 
