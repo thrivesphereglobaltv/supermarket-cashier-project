@@ -15,6 +15,11 @@ This interactive script allows users to add products, compute totals, and apply 
 - Automatically calculate total and apply membership discounts  
 - Supports three membership tiers: Gold, Silver, and Bronze  
 - User-friendly, interactive console interface  
+## ▶️ Try It Online
+
+You can run this project directly on **Replit**:
+
+[![Run on Replit](https://replit.com/badge/github/thrivesphereglobaltv/supermarket-cashier-project)](https://replit.com/new/github/thrivesphereglobaltv/supermarket-cashier-project)
 
 ---
 
